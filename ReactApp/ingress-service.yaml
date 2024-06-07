@@ -40,7 +40,7 @@ spec:
               service:
                 name: my-app-np
                 port:
-                  number: 3000
+                  number: 80
 
   tls:
     - hosts:
